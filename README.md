@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gunvolt9147
 - 👀 I’m interested in ... Games, Comics, Trading Cards, Geek stuff essentially 
-- 🌱 I’m currently learning ... C++, in the future Javascript and phython
+- 🌱 I’m currently learning ... C#, Along with C, C++, and hopefully Python
 - 💞️ I’m looking to collaborate on ... Working with games and hopefully have the experiance at all at anything
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
